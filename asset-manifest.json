@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CoffeeHouseGHP/static/css/main.049d8b25.css",
-    "main.js": "/CoffeeHouseGHP/static/js/main.69ed8538.js",
+    "main.js": "/CoffeeHouseGHP/static/js/main.81e3d182.js",
     "static/js/453.ed3810f9.chunk.js": "/CoffeeHouseGHP/static/js/453.ed3810f9.chunk.js",
     "static/media/about-1.jpg": "/CoffeeHouseGHP/static/media/about-1.e42529fedd5b2cf4f1eb.jpg",
     "static/media/about-4.jpg": "/CoffeeHouseGHP/static/media/about-4.e69674cdf570362aff93.jpg",
@@ -41,11 +41,11 @@
     "static/media/geo.svg": "/CoffeeHouseGHP/static/media/geo.289e7767008f20cf9b7948d65694f9e9.svg",
     "static/media/phone.svg": "/CoffeeHouseGHP/static/media/phone.9e2b33a944cefd68b73ecf7612e95635.svg",
     "main.049d8b25.css.map": "/CoffeeHouseGHP/static/css/main.049d8b25.css.map",
-    "main.69ed8538.js.map": "/CoffeeHouseGHP/static/js/main.69ed8538.js.map",
+    "main.81e3d182.js.map": "/CoffeeHouseGHP/static/js/main.81e3d182.js.map",
     "453.ed3810f9.chunk.js.map": "/CoffeeHouseGHP/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.049d8b25.css",
-    "static/js/main.69ed8538.js"
+    "static/js/main.81e3d182.js"
   ]
 }
