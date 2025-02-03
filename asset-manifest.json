@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/CoffeeHouseGHP/static/css/main.ebe721c1.css",
-    "main.js": "/CoffeeHouseGHP/static/js/main.4910b414.js",
-    "static/js/453.ed3810f9.chunk.js": "/CoffeeHouseGHP/static/js/453.ed3810f9.chunk.js",
+    "main.css": "/CoffeeHouseGHP/static/css/main.cf21f196.css",
+    "main.js": "/CoffeeHouseGHP/static/js/main.1e485505.js",
+    "static/media/container.png": "/CoffeeHouseGHP/static/media/container.e36be933cb5d0edece25.png",
     "static/media/about-1.jpg": "/CoffeeHouseGHP/static/media/about-1.e42529fedd5b2cf4f1eb.jpg",
     "static/media/about-4.jpg": "/CoffeeHouseGHP/static/media/about-4.e69674cdf570362aff93.jpg",
     "static/media/about-2.jpg": "/CoffeeHouseGHP/static/media/about-2.252f4fa55f7c52cc7060.jpg",
     "static/media/about-3.jpg": "/CoffeeHouseGHP/static/media/about-3.5d962f7cfd44aee6a0ad.jpg",
-    "static/media/container.png": "/CoffeeHouseGHP/static/media/container.6911d20912b9cf05930d.png",
     "static/media/dessert-8.png": "/CoffeeHouseGHP/static/media/dessert-8.18f77c4d31986c018c02.png",
     "static/media/dessert-3.png": "/CoffeeHouseGHP/static/media/dessert-3.ebb837cc8a325e517c5a.png",
     "static/media/mobile-screens.png": "/CoffeeHouseGHP/static/media/mobile-screens.7c6e9d092f268af8840a.png",
@@ -32,7 +31,6 @@
     "static/media/coffee-7.png": "/CoffeeHouseGHP/static/media/coffee-7.a6a7bde3d08d835510cb.png",
     "static/media/coffee-6.png": "/CoffeeHouseGHP/static/media/coffee-6.48c9bce90b5df9edca30.png",
     "static/media/coffee-slider-2.png": "/CoffeeHouseGHP/static/media/coffee-slider-2.a7f025aba0f59decfcc6.png",
-    "static/media/logo.png": "/CoffeeHouseGHP/static/media/logo.9b23070aba6fabd70d0b.png",
     "static/media/AppStore.svg": "/CoffeeHouseGHP/static/media/AppStore.85cbba0192ab2a4c3ebf9834840aaa2d.svg",
     "static/media/GooglePlay.svg": "/CoffeeHouseGHP/static/media/GooglePlay.509905791e0695f28bb4daddd0bd8248.svg",
     "static/media/X.svg": "/CoffeeHouseGHP/static/media/X.b4c3f7f66addae4af7fa9d03df8e0dc3.svg",
@@ -40,12 +38,11 @@
     "index.html": "/CoffeeHouseGHP/index.html",
     "static/media/geo.svg": "/CoffeeHouseGHP/static/media/geo.289e7767008f20cf9b7948d65694f9e9.svg",
     "static/media/phone.svg": "/CoffeeHouseGHP/static/media/phone.9e2b33a944cefd68b73ecf7612e95635.svg",
-    "main.ebe721c1.css.map": "/CoffeeHouseGHP/static/css/main.ebe721c1.css.map",
-    "main.4910b414.js.map": "/CoffeeHouseGHP/static/js/main.4910b414.js.map",
-    "453.ed3810f9.chunk.js.map": "/CoffeeHouseGHP/static/js/453.ed3810f9.chunk.js.map"
+    "main.cf21f196.css.map": "/CoffeeHouseGHP/static/css/main.cf21f196.css.map",
+    "main.1e485505.js.map": "/CoffeeHouseGHP/static/js/main.1e485505.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebe721c1.css",
-    "static/js/main.4910b414.js"
+    "static/css/main.cf21f196.css",
+    "static/js/main.1e485505.js"
   ]
 }
