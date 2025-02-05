@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CoffeeHouseGHP/static/css/main.cf21f196.css",
-    "main.js": "/CoffeeHouseGHP/static/js/main.1e485505.js",
+    "main.js": "/CoffeeHouseGHP/static/js/main.79a394b3.js",
     "static/media/container.png": "/CoffeeHouseGHP/static/media/container.e36be933cb5d0edece25.png",
     "static/media/about-1.jpg": "/CoffeeHouseGHP/static/media/about-1.e42529fedd5b2cf4f1eb.jpg",
     "static/media/about-4.jpg": "/CoffeeHouseGHP/static/media/about-4.e69674cdf570362aff93.jpg",
@@ -39,10 +39,10 @@
     "static/media/geo.svg": "/CoffeeHouseGHP/static/media/geo.289e7767008f20cf9b7948d65694f9e9.svg",
     "static/media/phone.svg": "/CoffeeHouseGHP/static/media/phone.9e2b33a944cefd68b73ecf7612e95635.svg",
     "main.cf21f196.css.map": "/CoffeeHouseGHP/static/css/main.cf21f196.css.map",
-    "main.1e485505.js.map": "/CoffeeHouseGHP/static/js/main.1e485505.js.map"
+    "main.79a394b3.js.map": "/CoffeeHouseGHP/static/js/main.79a394b3.js.map"
   },
   "entrypoints": [
     "static/css/main.cf21f196.css",
-    "static/js/main.1e485505.js"
+    "static/js/main.79a394b3.js"
   ]
 }
